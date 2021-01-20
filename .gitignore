@@ -1,0 +1,7 @@
+.idea/
+target/
+.env
+Cargo.lock
+junk*.*
+ars.toml
+.ars.toml
